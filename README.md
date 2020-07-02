@@ -13,14 +13,14 @@ JUnit
 
 SDK
 
-##PROCEDURE
+## PROCEDURE
 Use this command to clone the repository `https://github.com/Maureenchepkirui/Caeser-Cipher.git`
 
 Navigate to CaeserCipher/src/main/java
 
 use `javac App.java`to compile and `java App` to run the application
 
-##TECHNOLOGIES USED
+## TECHNOLOGIES USED
 JDK
 
 JUNIT
@@ -47,7 +47,7 @@ When running tests i get an error : Test events not received.
 
 For further details contact me on `maureenchepkirui005@gmail.com`
 
-##LICENCE
+## LICENCE
 
 This application is licenced by MIT Open Source Licence
 Copyright (C) 2020 Maureen Chepkirui
