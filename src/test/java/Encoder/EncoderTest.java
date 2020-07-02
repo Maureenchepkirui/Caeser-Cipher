@@ -9,7 +9,7 @@ public class EncoderTest {
     @Test//testing if a single letter gets converted to uppercase
     public void Encoder_ConvertsStingToUppercase_true() {
         Encoder testEncoder = new Encoder("a");
-        assertEquals("A", testEncoder instanceof Encoder);
+        assertEquals("A", testEncoder.encocoderFunc());
     }
 
     @Test

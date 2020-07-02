@@ -31,17 +31,23 @@ SDK
 
 MarkDown
 
-##BEHAVIOUR DRIVEN DEVELOPMENT
+## BEHAVIOUR DRIVEN DEVELOPMENT
+
 Users enter a string.
 
 String gets encrypted
 
 String gets decrypted to it's original state
-##KNOWN BUGS
+
+## KNOWN BUGS
+
 When running tests i get an error : Test events not received.
 
-##CONTACT DETAILS
+## CONTACT DETAILS
+
 For further details contact me on `maureenchepkirui005@gmail.com`
+
 ##LICENCE
+
 This application is licenced by MIT Open Source Licence
 Copyright (C) 2020 Maureen Chepkirui
