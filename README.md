@@ -32,7 +32,7 @@ SDK
 MarkDown
 
 ##BEHAVIOUR DRIVEN DEVELOPMENT
-Users enter a string,
+Users enter a string.
 
 String gets encrypted
 
